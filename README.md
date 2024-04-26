@@ -12,5 +12,5 @@ Sou programador e estou começando..
 ##
 
  <a href="https://discord.gg/d9MQpD6uaZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "https://mail.google.com/diego.nessler1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "https://mail.google.com/diego.nessler1@gmail.com <diego.nessler1@gmail.com>"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
