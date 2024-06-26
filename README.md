@@ -1,7 +1,9 @@
 Ola eu sou diego nessler !!!
 
 Sou programador e estou começando..
-Contato- Email : diego.nessler1@gmail.com
+Contato-
+
+Email : diego.nessler1@gmail.com
          FONE: (47)98903-8296
          
 <div style="display: inline_block"><br>
