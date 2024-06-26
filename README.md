@@ -6,7 +6,7 @@ Sou programador e estou começando..
 
 Email : diego.nessler1@gmail.com
 
-FONE: (47)98903-8296
+FONE: (47) 98903-8296
          
 <div style="display: inline_block"><br>
 
