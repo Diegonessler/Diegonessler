@@ -1,8 +1,8 @@
 Ola eu sou diego nessler !!!
 
-Sou programador e estou começando..
+Sou programador amador
 
--Contato-
+-Contatos-
 
 Email : diego.nessler1@gmail.com
 
