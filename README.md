@@ -15,6 +15,12 @@ FONE: (47) 98903-8296
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://images.app.goo.gl/536Uod33wRDFCitc7 
+
+">
+
+</div>
+
 ##
 
  <a href="https://discord.gg/d9MQpD6uaZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
