@@ -1,6 +1,6 @@
 Ola eu sou diego nessler !!!
 
-Sou programador amador
+Sou programador júnior 
 
 -Contatos-
 
