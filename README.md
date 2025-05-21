@@ -1,6 +1,6 @@
 Olá, eu sou Diego Nessler!
 
-Sou Programador Júnior e estudante do 3º semestre de Engenharia de Software. Tenho experiência em desenvolvimento Front-end e conhecimentos em Java, C# e desenvolvimento web (HTML e CSS). Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
+Sou Programador Júnior e estudante do 3º semestre de Engenharia de Software. Tenho experiência em desenvolvimento Front-end e conhecimentos em Java, C#, Node.js e desenvolvimento web (HTML e CSS). Estou sempre buscando aprimorar minhas habilidades, aprender novas tecnologias e atualmente estou em busca de oportunidades como Desenvolvedor Full Stack, onde eu possa contribuir com meus conhecimentos e crescer profissionalmente.
 
 🚀 Tecnologias
 
