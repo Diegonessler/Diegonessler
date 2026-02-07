@@ -16,6 +16,6 @@ Sou Programador Júnior e estudante de Engenharia de Software. Tenho experiênci
 
 📫 Contato
 
-✉ E-mail: diego.nessler1@gmail.com
+✉ E-mail: diego.nessler1@gmail.com / codefluxlabs1@gmail.com
 📞 Telefone: (47) 98903-8296
-💬 Discord: Entre no meu servidor
+💬 Discord: Entre no meu servidor https://discord.gg/d9MQpD6uaZ
